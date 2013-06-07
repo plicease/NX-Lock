@@ -5,6 +5,9 @@ use warnings;
 use Fcntl ':flock';
 use IO::File;
 
+# ABSTRACT: OO Lock interface
+# VERSION
+
 sub new
 {
   my $obclass = shift;
