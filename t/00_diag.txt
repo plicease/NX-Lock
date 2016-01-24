@@ -1,4 +1,0 @@
-ExtUtils::MakeMaker
-Fcntl
-IO::File
-Test::More
